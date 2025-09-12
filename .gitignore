@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.eggs
+*.manifest
+*.spec
+*.coverage
+.coverage
+htmlcov/
+.cache/
+*.log
+*.pot
+*.mo
+*.env
+.env*
+.venv/
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Test and coverage
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.whl
+*.tar.gz
+
+# Misc
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
+
+# Documentation
+*.html
+*.pdf
+# *.md~
+
+# Ignore local settings
+local_settings.py
+
+# Ignore research outputs
+research/*.pdf
+research/*.csv
+research/*.xlsx
+
+# Ignore examples outputs
+examples/*.out
+examples/*.log
